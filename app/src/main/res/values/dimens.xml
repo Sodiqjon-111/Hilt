@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="button_radius" type="dimen">5dp</item>
+    <dimen name="layout_padding">20dp</dimen>
+    <dimen name="btn_height">48dp</dimen>
+    <dimen name="roundedEditTextHeight">48dp</dimen>
+    <dimen name="et_left_padding">15dp</dimen>
+    <dimen name="cardRadius">5dp</dimen>
+    <dimen name="newCardRadius">5dp</dimen>
+    <dimen name="vertical_margin">16dp</dimen>
+    <dimen name="double_vertical_margin">32dp</dimen>
+    <dimen name="userImageIconHeight">60dp</dimen>
+    <dimen name="halfVerticalMargin">8dp</dimen>
+    <dimen name="chatViewLeftPadding">92dp</dimen>
+    <dimen name="circular_point_height">12dp</dimen>
+    <dimen name="quarterVerticalMargin">4dp</dimen>
+    <dimen name="small_icon_size">14dp</dimen>
+    <dimen name="mapFragmentHeight">250dp</dimen>
+    <dimen name="iconSize">24dp</dimen>
+    <dimen name="timeTextCornerRadius">4dp</dimen>
+    <dimen name="editTextCornerRadius">5dp</dimen>
+
+    <!--    text-->
+
+    <dimen name="bigTextSize">18sp</dimen>
+    <dimen name="normalTextSize">16sp</dimen>
+    <dimen name="mediumTextSize">14sp</dimen>
+    <dimen name="middleTextSize">10sp</dimen>
+    <dimen name="littleTextSize">10sp</dimen>
+    <dimen name="smallTextSize">12sp</dimen>
+</resources>

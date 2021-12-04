@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Hilt</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="prompt_password">Password</string>
+    <string name="prompt_email">Email</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="email_address_label">Email address</string>
+    <string name="get_verification">Get Verification</string>
+    <string name="need_help">Need help?</string>
+    <string name="error_title">Error Text</string>
+    <string name="verify_code">Verify code</string>
+    <string name="confirm">Confirm</string>
+    <string name="resend_again">Resend again</string>
+    <string name="verification_text">Please, enter the verification code we sent to your email</string>
+    <string name="codeHint">XXXXXX</string>
+    <string name="verified">Verified</string>
+    <string name="verified_successful">Yahoo! You have successfully verified the account</string>
+    <string name="next">Next</string>
+    <string name="go_to_profile">Go to profile</string>
+    <string name="new_password">New password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="default_user_name">John Smith</string>
+    <string name="default_chat_message">Стартап IT Park «Micros24» привлек инвестиции в размере $120 000!</string>
+    <string name="default_time">20:30</string>
+
+</resources>
