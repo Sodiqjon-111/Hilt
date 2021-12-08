@@ -36,6 +36,7 @@ class FirstFragment : Fragment() {
         recycler?.apply {
             layoutManager = LinearLayoutManager(requireContext())
             adapter = listAdapter
+
             setHasFixedSize(true)
         }
 //        recycler.layoutManager = LinearLayoutManager(requireContext())
